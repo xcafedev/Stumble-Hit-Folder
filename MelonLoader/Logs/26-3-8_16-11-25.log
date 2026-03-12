@@ -1,0 +1,64 @@
+﻿[16:11:25.480] ------------------------------
+[16:11:25.508] MelonLoader v0.6.4 Open-Beta
+[16:11:25.510] OS: Windows 10
+[16:11:25.511] Hash Code: 17633DCD868349FA75B57186628D155F30E43B76ACC4602A2600E8300A83ABBD
+[16:11:25.511] ------------------------------
+[16:11:25.513] Game Type: Il2cpp
+[16:11:25.513] Game Arch: x64
+[16:11:25.513] ------------------------------
+[16:11:25.513] Core::BasePath = E:\new download\StumbleHit
+[16:11:25.513] Game::BasePath = E:\new download\StumbleHit
+[16:11:25.514] Game::DataPath = E:\new download\StumbleHit\StumbleHit_Data
+[16:11:25.514] Game::ApplicationPath = E:\new download\StumbleHit\StumbleHit.exe
+[16:11:25.514] Runtime Type: net6
+[16:11:25.667] ------------------------------
+[16:11:25.668] Game Name: Stumble Guys
+[16:11:25.668] Game Developer: Kitka Games
+[16:11:25.670] Unity Version: 2021.3.25f1
+[16:11:25.671] Game Version: 0.64
+[16:11:25.671] ------------------------------
+
+[16:11:26.332] Preferences Loaded!
+
+[16:11:26.573] Loading UserLibss from 'E:\new download\StumbleHit\UserLibs'...
+
+[16:11:26.593] Loading Plugins from 'E:\new download\StumbleHit\Plugins'...
+[16:11:26.596] 0 Plugins loaded.
+[16:11:27.485] [MelonStartScreen] Initializing...
+[16:11:27.564] [MelonStartScreen] Using Start Screen Theme: "Default"
+[16:11:27.705] [MelonStartScreen] Failed to find the signature for field m_D3D12WaitForLastPresentationAndGetTimestamp in module. Signature: 48 89 5c 24 08 57 48 81 ec 90 00 00 00 0f 29 b4 24 80 00 00 00 48 8b d9
+[16:11:27.726] Loading Il2CppAssemblyGenerator...
+[16:11:27.735] [Il2CppAssemblyGenerator] Contacting RemoteAPI...
+[16:11:27.899] [Il2CppAssemblyGenerator] Game Not Found on RemoteAPI Host (https://api.melonloader.com/api/v1/game/stumble-guys)
+[16:11:27.899] [Il2CppAssemblyGenerator] RemoteAPI.DumperVersion = null
+[16:11:27.900] [Il2CppAssemblyGenerator] RemoteAPI.ObfuscationRegex = null
+[16:11:27.900] [Il2CppAssemblyGenerator] RemoteAPI.MappingURL = null
+[16:11:27.900] [Il2CppAssemblyGenerator] RemoteAPI.MappingFileSHA512 = null
+[16:11:27.904] [Il2CppAssemblyGenerator] Using Dumper Version: 2022.1.0-pre-release.15
+[16:11:27.905] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.4.6-ci.433+45e22c2cb80a9586114a1815d77cc20104fd896c
+[16:11:27.905] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2021.3.25
+[16:11:27.905] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[16:11:27.906] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[16:11:27.907] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[16:11:27.907] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[16:11:28.272] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[16:11:28.274] Loading Mods from 'E:\new download\StumbleHit\Mods'...
+[16:11:28.275] ------------------------------
+[16:11:28.349] Melon Assembly loaded: '.\Mods\Stumble Hit (4).dll'
+[16:11:28.350] SHA256 Hash: '8abd2737b62d19be10e67844127d4d47f80e0a778e8f8f5dac9357a2c5cd7dba'
+
+[16:11:31.005] ------------------------------
+[16:11:31.006] Stumble Hit v1.0
+[16:11:31.006] by @bash,
+[16:11:31.006] Assembly: Stumble Hit (4).dll
+[16:11:31.006] ------------------------------
+[16:11:31.006] ------------------------------
+[16:11:31.006] 1 Mod loaded.
+
+[16:11:31.685] Class::Init signatures have been exhausted, using a substitute!
+[16:11:31.920] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[16:11:31.957] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[16:11:31.960] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[16:11:31.970] Support Module Loaded: E:\new download\StumbleHit\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[16:16:53.986] Preferences Saved!

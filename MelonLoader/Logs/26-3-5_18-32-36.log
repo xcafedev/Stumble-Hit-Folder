@@ -1,0 +1,149 @@
+﻿[18:32:37.018] ------------------------------
+[18:32:37.069] MelonLoader v0.6.4 Open-Beta
+[18:32:37.071] OS: Windows 10
+[18:32:37.071] Hash Code: 17633DCD868349FA75B57186628D155F30E43B76ACC4602A2600E8300A83ABBD
+[18:32:37.071] ------------------------------
+[18:32:37.071] Game Type: Il2cpp
+[18:32:37.072] Game Arch: x64
+[18:32:37.072] ------------------------------
+[18:32:37.072] Core::BasePath = E:\new download\StumbleHit
+[18:32:37.072] Game::BasePath = E:\new download\StumbleHit
+[18:32:37.072] Game::DataPath = E:\new download\StumbleHit\StumbleHit_Data
+[18:32:37.072] Game::ApplicationPath = E:\new download\StumbleHit\StumbleHit.exe
+[18:32:37.073] Runtime Type: net6
+[18:32:37.189] ------------------------------
+[18:32:37.190] Game Name: Stumble Guys
+[18:32:37.190] Game Developer: Kitka Games
+[18:32:37.192] Unity Version: 2021.3.25f1
+[18:32:37.192] Game Version: 0.64
+[18:32:37.192] ------------------------------
+
+[18:32:37.773] Preferences Loaded!
+
+[18:32:37.989] Loading UserLibss from 'E:\new download\StumbleHit\UserLibs'...
+
+[18:32:37.996] Loading Plugins from 'E:\new download\StumbleHit\Plugins'...
+[18:32:37.998] 0 Plugins loaded.
+[18:32:38.575] [MelonStartScreen] Initializing...
+[18:32:38.612] [MelonStartScreen] Using Start Screen Theme: "Default"
+[18:32:38.833] [MelonStartScreen] Failed to find the signature for field m_D3D12WaitForLastPresentationAndGetTimestamp in module. Signature: 48 89 5c 24 08 57 48 81 ec 90 00 00 00 0f 29 b4 24 80 00 00 00 48 8b d9
+[18:32:38.856] Loading Il2CppAssemblyGenerator...
+[18:32:38.862] [Il2CppAssemblyGenerator] Contacting RemoteAPI...
+[18:32:39.176] [Il2CppAssemblyGenerator] Game Not Found on RemoteAPI Host (https://api.melonloader.com/api/v1/game/stumble-guys)
+[18:32:39.177] [Il2CppAssemblyGenerator] RemoteAPI.DumperVersion = null
+[18:32:39.177] [Il2CppAssemblyGenerator] RemoteAPI.ObfuscationRegex = null
+[18:32:39.177] [Il2CppAssemblyGenerator] RemoteAPI.MappingURL = null
+[18:32:39.177] [Il2CppAssemblyGenerator] RemoteAPI.MappingFileSHA512 = null
+[18:32:39.184] [Il2CppAssemblyGenerator] Using Dumper Version: 2022.1.0-pre-release.15
+[18:32:39.185] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.4.6-ci.433+45e22c2cb80a9586114a1815d77cc20104fd896c
+[18:32:39.185] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2021.3.25
+[18:32:39.185] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[18:32:39.185] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[18:32:39.186] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[18:32:39.186] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[18:32:39.527] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[18:32:39.529] Loading Mods from 'E:\new download\StumbleHit\Mods'...
+[18:32:39.530] ------------------------------
+[18:32:39.603] Melon Assembly loaded: '.\Mods\Stumble Hit (2).dll'
+[18:32:39.603] SHA256 Hash: '282f1b47d67434949b50cba0c948b93791cb718178161719e3ff294226bdaeb5'
+
+[18:32:41.733] ------------------------------
+[18:32:41.734] Stumble Hit v1.0
+[18:32:41.734] by @bash,
+[18:32:41.734] Assembly: Stumble Hit (2).dll
+[18:32:41.735] ------------------------------
+[18:32:41.735] ------------------------------
+[18:32:41.735] 1 Mod loaded.
+
+[18:32:42.392] Class::Init signatures have been exhausted, using a substitute!
+[18:32:42.591] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[18:32:42.623] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[18:32:42.625] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[18:32:42.635] Support Module Loaded: E:\new download\StumbleHit\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[18:32:46.501] [Stumble_Hit] Baixando imagem de login da URL
+[18:32:48.544] [Stumble_Hit] Imagem de login salva no cache
+[18:32:50.874] [Stumble_Hit] Unhandled exception in coroutine. It will not continue executing.
+System.NotSupportedException: Method unstripping failed
+   at UnityEngine.Events.PersistentCallGroup.GetListener(Int32 index)
+   at UnityEngine.Events.UnityEventBase.SetPersistentListenerState(Int32 index, UnityEventCallState state)
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+‭‮‮⁪‍‏‬‌‫‏‎⁪‏⁬‭⁪⁬⁪‬‌⁮⁬‭​⁪‫‮⁪‎‌⁯‏⁯⁭‫‭‏‎‍‏‮()
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+MoveNext()
+   at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext()
+[18:32:51.916] [Stumble_Hit] StartOAuth chamado - iniciando autenticação Discord
+[18:32:51.918] [Stumble_Hit] Abrindo URL do Discord: https://discord.com/oauth2/authorize?client_id=1462883833316769961&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A5001%2Fcallback%2F&scope=identify%20guilds%20gdm.join%20email%20guilds.join%20connections
+[18:33:00.362] [Stumble_Hit] StartOAuth chamado - iniciando autenticação Discord
+[18:33:00.362] [Stumble_Hit] Abrindo URL do Discord: https://discord.com/oauth2/authorize?client_id=1462883833316769961&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A5001%2Fcallback%2F&scope=identify%20guilds%20gdm.join%20email%20guilds.join%20connections
+[18:33:00.511] [Stumble_Hit] Unhandled exception in coroutine. It will not continue executing.
+System.Net.HttpListenerException (183): Failed to listen on prefix 'http://localhost:5001/callback/' because it conflicts with an existing registration on the machine.
+   at System.Net.HttpListener.AddPrefixCore(String registeredPrefix)
+   at System.Net.HttpListener.AddAllPrefixes()
+   at System.Net.HttpListener.Start()
+   at SGN3.Backend.‬⁬‬⁯⁪‫⁬‭​⁯⁪​⁮⁬‏​⁯‫⁪‍⁭‭​⁯⁭‍‍‮⁫‍⁬⁬‎⁬⁫​‍‭⁭⁯‮()+⁯‎‬‏⁯‪⁪‫⁭⁫‍‪‮⁭‪‭⁫‍‌‫‬‬‫‌⁯‭‏⁪‪‬‎⁫‍‫‫‏‍‬​⁭‮()
+   at SGN3.Backend.‬⁬‬⁯⁪‫⁬‭​⁯⁪​⁮⁬‏​⁯‫⁪‍⁭‭​⁯⁭‍‍‮⁫‍⁬⁬‎⁬⁫​‍‭⁭⁯‮()+MoveNext()
+   at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext()
+[18:33:09.620] [Stumble_Hit] StartOAuth chamado - iniciando autenticação Discord
+[18:33:09.624] [Stumble_Hit] Abrindo URL do Discord: https://discord.com/oauth2/authorize?client_id=1462883833316769961&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A5001%2Fcallback%2F&scope=identify%20guilds%20gdm.join%20email%20guilds.join%20connections
+[18:33:09.631] [Stumble_Hit] Unhandled exception in coroutine. It will not continue executing.
+System.Net.HttpListenerException (183): Failed to listen on prefix 'http://localhost:5001/callback/' because it conflicts with an existing registration on the machine.
+   at System.Net.HttpListener.AddPrefixCore(String registeredPrefix)
+   at System.Net.HttpListener.AddAllPrefixes()
+   at System.Net.HttpListener.Start()
+   at SGN3.Backend.‬⁬‬⁯⁪‫⁬‭​⁯⁪​⁮⁬‏​⁯‫⁪‍⁭‭​⁯⁭‍‍‮⁫‍⁬⁬‎⁬⁫​‍‭⁭⁯‮()+⁯‎‬‏⁯‪⁪‫⁭⁫‍‪‮⁭‪‭⁫‍‌‫‬‬‫‌⁯‭‏⁪‪‬‎⁫‍‫‫‏‍‬​⁭‮()
+   at SGN3.Backend.‬⁬‬⁯⁪‫⁬‭​⁯⁪​⁮⁬‏​⁯‫⁪‍⁭‭​⁯⁭‍‍‮⁫‍⁬⁬‎⁬⁫​‍‭⁭⁯‮()+MoveNext()
+   at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext()
+[18:33:17.936] [Stumble_Hit] StartOAuth chamado - iniciando autenticação Discord
+[18:33:17.937] [Stumble_Hit] Abrindo URL do Discord: https://discord.com/oauth2/authorize?client_id=1462883833316769961&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A5001%2Fcallback%2F&scope=identify%20guilds%20gdm.join%20email%20guilds.join%20connections
+[18:33:17.944] [Stumble_Hit] Unhandled exception in coroutine. It will not continue executing.
+System.Net.HttpListenerException (183): Failed to listen on prefix 'http://localhost:5001/callback/' because it conflicts with an existing registration on the machine.
+   at System.Net.HttpListener.AddPrefixCore(String registeredPrefix)
+   at System.Net.HttpListener.AddAllPrefixes()
+   at System.Net.HttpListener.Start()
+   at SGN3.Backend.‬⁬‬⁯⁪‫⁬‭​⁯⁪​⁮⁬‏​⁯‫⁪‍⁭‭​⁯⁭‍‍‮⁫‍⁬⁬‎⁬⁫​‍‭⁭⁯‮()+⁯‎‬‏⁯‪⁪‫⁭⁫‍‪‮⁭‪‭⁫‍‌‫‬‬‫‌⁯‭‏⁪‪‬‎⁫‍‫‫‏‍‬​⁭‮()
+   at SGN3.Backend.‬⁬‬⁯⁪‫⁬‭​⁯⁪​⁮⁬‏​⁯‫⁪‍⁭‭​⁯⁭‍‍‮⁫‍⁬⁬‎⁬⁫​‍‭⁭⁯‮()+MoveNext()
+   at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext()
+[18:33:23.954] [Stumble_Hit] [RoleCheck] Verificando cargos para usuário: 930195432242544701
+[18:33:24.315] [Stumble_Hit] [RoleCheck] Resposta da API: {"avatar":null,"banner":null,"communication_disabled_until":null,"flags":0,"joined_at":"2026-01-13T15:51:21.862000+00:00","nick":null,"pending":false,"premium_since":"2026-02-22T19:00:53.081000+00:00","roles":["1474026392571088896","1475144085479100467","1443649632759713812","1474101793460981783"],"unusual_dm_activity_until":null,"collectibles":null,"display_name_styles":null,"user":{"id":"930195432242544701","username":"coffezde2","avatar":"b3fb59b4ee5aba1bd9ae2d1a86afef6b","discriminator":"0","public_flags":1048576,"flags":1048576,"banner":"73d5f7b4c97a033993aa1348e698dade","accent_color":null,"global_name":"new account: otario75","avatar_decoration_data":null,"collectibles":null,"display_name_styles":{"font_id":7,"effect_id":1,"colors":[11080677]},"banner_color":null,"clan":{"identity_guild_id":"1438984311373172748","identity_enabled":true,"tag":"HIT","badge":"e3bf9804f050d89b3aac499e2e9247fc"},"primary_guild":{"identity_guild_id":"1438984311373172748","identity_enabled":true,"tag":"HIT","badge":"e3bf9804f050d89b3aac499e2e9247fc"}},"mute":false,"deaf":false}
+
+[18:33:24.317] [Stumble_Hit] [RoleCheck] Total de cargos: 4
+[18:33:24.317] [Stumble_Hit] [RoleCheck] Cargo 0: 1474026392571088896
+[18:33:24.317] [Stumble_Hit] [RoleCheck] Cargo 1: 1475144085479100467
+[18:33:24.317] [Stumble_Hit] [RoleCheck] Cargo 2: 1443649632759713812
+[18:33:24.318] [Stumble_Hit] [RoleCheck] ✅ Cargo especial encontrado!
+[18:33:24.318] [Stumble_Hit] [RoleCheck] Tem cargo especial: True
+[18:33:24.318] [Stumble_Hit] [RoleCheck] Nome atual: xcafe<sup><color=#000000>Owner
+[18:33:24.319] [Stumble_Hit] [RoleCheck] ✅ Nome atualizado para: xcafe<sup><color=#000000>Owner <color=#FF69B4>[B]</color>
+[18:33:32.269] [Stumble_Hit] Unhandled exception in coroutine. It will not continue executing.
+System.NotSupportedException: Method unstripping failed
+   at UnityEngine.Events.PersistentCallGroup.GetListener(Int32 index)
+   at UnityEngine.Events.UnityEventBase.SetPersistentListenerState(Int32 index, UnityEventCallState state)
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+‭‮‮⁪‍‏‬‌‫‏‎⁪‏⁬‭⁪⁬⁪‬‌⁮⁬‭​⁪‫‮⁪‎‌⁯‏⁯⁭‫‭‏‎‍‏‮()
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+MoveNext()
+   at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext()
+[18:33:53.955] [Stumble_Hit] [RoleCheck] Verificando cargos para usuário: 930195432242544701
+[18:33:54.266] [Stumble_Hit] [RoleCheck] Resposta da API: {"avatar":null,"banner":null,"communication_disabled_until":null,"flags":0,"joined_at":"2026-01-13T15:51:21.862000+00:00","nick":null,"pending":false,"premium_since":"2026-02-22T19:00:53.081000+00:00","roles":["1474026392571088896","1475144085479100467","1443649632759713812","1474101793460981783"],"unusual_dm_activity_until":null,"collectibles":null,"display_name_styles":null,"user":{"id":"930195432242544701","username":"coffezde2","avatar":"b3fb59b4ee5aba1bd9ae2d1a86afef6b","discriminator":"0","public_flags":1048576,"flags":1048576,"banner":"73d5f7b4c97a033993aa1348e698dade","accent_color":null,"global_name":"new account: otario75","avatar_decoration_data":null,"collectibles":null,"display_name_styles":{"font_id":7,"effect_id":1,"colors":[11080677]},"banner_color":null,"clan":{"identity_guild_id":"1438984311373172748","identity_enabled":true,"tag":"HIT","badge":"e3bf9804f050d89b3aac499e2e9247fc"},"primary_guild":{"identity_guild_id":"1438984311373172748","identity_enabled":true,"tag":"HIT","badge":"e3bf9804f050d89b3aac499e2e9247fc"}},"mute":false,"deaf":false}
+
+[18:33:54.266] [Stumble_Hit] [RoleCheck] Total de cargos: 4
+[18:33:54.267] [Stumble_Hit] [RoleCheck] Cargo 0: 1474026392571088896
+[18:33:54.267] [Stumble_Hit] [RoleCheck] Cargo 1: 1475144085479100467
+[18:33:54.267] [Stumble_Hit] [RoleCheck] Cargo 2: 1443649632759713812
+[18:33:54.267] [Stumble_Hit] [RoleCheck] ✅ Cargo especial encontrado!
+[18:33:54.267] [Stumble_Hit] [RoleCheck] Tem cargo especial: True
+[18:34:12.890] [Stumble_Hit] Abrindo URL do Discord: https://discord.gg/sghit
+[18:34:23.955] [Stumble_Hit] [RoleCheck] Verificando cargos para usuário: 930195432242544701
+[18:34:24.566] [Stumble_Hit] [RoleCheck] Resposta da API: {"avatar":null,"banner":null,"communication_disabled_until":null,"flags":0,"joined_at":"2026-01-13T15:51:21.862000+00:00","nick":null,"pending":false,"premium_since":"2026-02-22T19:00:53.081000+00:00","roles":["1474026392571088896","1475144085479100467","1443649632759713812","1474101793460981783"],"unusual_dm_activity_until":null,"collectibles":null,"display_name_styles":null,"user":{"id":"930195432242544701","username":"coffezde2","avatar":"b3fb59b4ee5aba1bd9ae2d1a86afef6b","discriminator":"0","public_flags":1048576,"flags":1048576,"banner":"73d5f7b4c97a033993aa1348e698dade","accent_color":null,"global_name":"new account: otario75","avatar_decoration_data":null,"collectibles":null,"display_name_styles":{"font_id":7,"effect_id":1,"colors":[11080677]},"banner_color":null,"clan":{"identity_guild_id":"1438984311373172748","identity_enabled":true,"tag":"HIT","badge":"e3bf9804f050d89b3aac499e2e9247fc"},"primary_guild":{"identity_guild_id":"1438984311373172748","identity_enabled":true,"tag":"HIT","badge":"e3bf9804f050d89b3aac499e2e9247fc"}},"mute":false,"deaf":false}
+
+[18:34:24.567] [Stumble_Hit] [RoleCheck] Total de cargos: 4
+[18:34:24.568] [Stumble_Hit] [RoleCheck] Cargo 0: 1474026392571088896
+[18:34:24.568] [Stumble_Hit] [RoleCheck] Cargo 1: 1475144085479100467
+[18:34:24.568] [Stumble_Hit] [RoleCheck] Cargo 2: 1443649632759713812
+[18:34:24.568] [Stumble_Hit] [RoleCheck] ✅ Cargo especial encontrado!
+[18:34:24.568] [Stumble_Hit] [RoleCheck] Tem cargo especial: True
+[18:34:25.593] [Stumble_Hit] Unhandled exception in coroutine. It will not continue executing.
+System.NotSupportedException: Method unstripping failed
+   at UnityEngine.Events.PersistentCallGroup.GetListener(Int32 index)
+   at UnityEngine.Events.UnityEventBase.SetPersistentListenerState(Int32 index, UnityEventCallState state)
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+‭‮‮⁪‍‏‬‌‫‏‎⁪‏⁬‭⁪⁬⁪‬‌⁮⁬‭​⁪‫‮⁪‎‌⁯‏⁯⁭‫‭‏‎‍‏‮()
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+MoveNext()
+   at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext()
+[18:34:31.067] Preferences Saved!

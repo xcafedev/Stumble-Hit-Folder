@@ -1,0 +1,71 @@
+﻿[14:32:50.681] ------------------------------
+[14:32:50.729] MelonLoader v0.6.4 Open-Beta
+[14:32:50.731] OS: Windows 10
+[14:32:50.731] Hash Code: 17633DCD868349FA75B57186628D155F30E43B76ACC4602A2600E8300A83ABBD
+[14:32:50.731] ------------------------------
+[14:32:50.731] Game Type: Il2cpp
+[14:32:50.731] Game Arch: x64
+[14:32:50.731] ------------------------------
+[14:32:50.732] Core::BasePath = E:\new download\StumbleHit
+[14:32:50.732] Game::BasePath = E:\new download\StumbleHit
+[14:32:50.732] Game::DataPath = E:\new download\StumbleHit\StumbleHit_Data
+[14:32:50.732] Game::ApplicationPath = E:\new download\StumbleHit\StumbleHit.exe
+[14:32:50.732] Runtime Type: net6
+[14:32:50.861] ------------------------------
+[14:32:50.861] Game Name: Stumble Guys
+[14:32:50.861] Game Developer: Kitka Games
+[14:32:50.863] Unity Version: 2021.3.25f1
+[14:32:50.869] Game Version: 0.64
+[14:32:50.869] ------------------------------
+
+[14:32:51.636] Preferences Loaded!
+
+[14:32:51.929] Loading UserLibss from 'E:\new download\StumbleHit\UserLibs'...
+
+[14:32:51.960] Loading Plugins from 'E:\new download\StumbleHit\Plugins'...
+[14:32:51.963] 0 Plugins loaded.
+[14:32:53.147] [MelonStartScreen] Initializing...
+[14:32:53.184] [MelonStartScreen] Using Start Screen Theme: "Default"
+[14:32:53.426] [MelonStartScreen] Failed to find the signature for field m_D3D12WaitForLastPresentationAndGetTimestamp in module. Signature: 48 89 5c 24 08 57 48 81 ec 90 00 00 00 0f 29 b4 24 80 00 00 00 48 8b d9
+[14:32:53.516] Loading Il2CppAssemblyGenerator...
+[14:32:53.523] [Il2CppAssemblyGenerator] Contacting RemoteAPI...
+[14:32:53.707] [Il2CppAssemblyGenerator] Game Not Found on RemoteAPI Host (https://api.melonloader.com/api/v1/game/stumble-guys)
+[14:32:53.708] [Il2CppAssemblyGenerator] RemoteAPI.DumperVersion = null
+[14:32:53.708] [Il2CppAssemblyGenerator] RemoteAPI.ObfuscationRegex = null
+[14:32:53.708] [Il2CppAssemblyGenerator] RemoteAPI.MappingURL = null
+[14:32:53.708] [Il2CppAssemblyGenerator] RemoteAPI.MappingFileSHA512 = null
+[14:32:53.713] [Il2CppAssemblyGenerator] Using Dumper Version: 2022.1.0-pre-release.15
+[14:32:53.714] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.4.6-ci.433+45e22c2cb80a9586114a1815d77cc20104fd896c
+[14:32:53.714] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2021.3.25
+[14:32:53.714] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[14:32:53.714] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[14:32:53.714] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[14:32:53.715] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[14:32:54.112] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[14:32:54.113] Loading Mods from 'E:\new download\StumbleHit\Mods'...
+[14:32:54.113] ------------------------------
+[14:32:54.188] Melon Assembly loaded: '.\Mods\Stumble Hit (2).dll'
+[14:32:54.188] SHA256 Hash: '282f1b47d67434949b50cba0c948b93791cb718178161719e3ff294226bdaeb5'
+
+[14:32:56.705] ------------------------------
+[14:32:56.707] Stumble Hit v1.0
+[14:32:56.707] by @bash,
+[14:32:56.707] Assembly: Stumble Hit (2).dll
+[14:32:56.707] ------------------------------
+[14:32:56.707] ------------------------------
+[14:32:56.707] 1 Mod loaded.
+
+[14:32:57.429] Class::Init signatures have been exhausted, using a substitute!
+[14:32:57.626] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[14:32:57.662] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[14:32:57.664] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[14:32:57.677] Support Module Loaded: E:\new download\StumbleHit\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[14:33:22.520] [Stumble_Hit] Unhandled exception in coroutine. It will not continue executing.
+System.NotSupportedException: Method unstripping failed
+   at UnityEngine.Events.PersistentCallGroup.GetListener(Int32 index)
+   at UnityEngine.Events.UnityEventBase.SetPersistentListenerState(Int32 index, UnityEventCallState state)
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+‭‮‮⁪‍‏‬‌‫‏‎⁪‏⁬‭⁪⁬⁪‬‌⁮⁬‭​⁪‫‮⁪‎‌⁯‏⁯⁭‫‭‏‎‍‏‮()
+   at SGN3.Backend.Patch1.‬‏‎‫‪‬⁯‫‫‍‎⁯‌‫‏⁫⁯⁬⁭‏‏⁮‭‌‫‏‪‪⁯‍‪‏⁮‮‎⁬⁮‍⁯‍‮(SettingsViewControllerSteam )+MoveNext()
+   at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext()
+[14:33:55.696] Preferences Saved!
